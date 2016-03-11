@@ -1,0 +1,8 @@
+- [ ] Lock in Speaker 
+- [ ] Lock in date with speaker 
+- [ ] Lock in date with Venue
+- [ ] create meetup
+- [ ] market meetup (eg twitter) 
+- [ ] see if speaker will sponsor
+- [ ] Order Pizza
+- [ ] Get reimbursed if necessary
