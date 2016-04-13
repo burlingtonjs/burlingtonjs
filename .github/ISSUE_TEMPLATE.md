@@ -5,4 +5,3 @@
 - [ ] market meetup (eg twitter) 
 - [ ] see if speaker will sponsor
 - [ ] Order Pizza
-- [ ] Get reimbursed if necessary
