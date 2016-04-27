@@ -4,4 +4,5 @@
 - [ ] create meetup
 - [ ] market meetup (eg twitter) 
 - [ ] see if speaker will sponsor
-- [ ] Order Pizza
+- [ ] Order Pizza (see [doc](https://docs.google.com/document/d/1Qpfft0cuoc03AJjTbfg3PcnlXm28YDyPhRwE8nBonyo/edit?usp=sharing) for process)
+- [ ] Arrange pick up of pizza
