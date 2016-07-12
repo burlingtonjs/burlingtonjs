@@ -1,6 +1,6 @@
 - [ ] Lock in Speaker 
 - [ ] Lock in date with speaker 
-- [ ] Lock in date with Venue
+- [ ] Lock in date with [Venue](https://docs.google.com/document/d/1Tt_g3aa0Wn6vGD7tc7jXxhZDIbtMKzSw2o25NlC-ZXI/edit)
 - [ ] create meetup
 - [ ] market meetup (eg twitter) 
 - [ ] see if speaker will sponsor
