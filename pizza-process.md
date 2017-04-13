@@ -35,10 +35,12 @@ Buy drinks at Leonardos (no non-profit rate)
 
 ## Or order from Dominoes Online!
 (If you screw up and forget to order the day before, then the morning on the day of, or you don't want to pick up the pies yourself)
-- Set for Delivery 15 minutes before
-- Look for coupons you can use
-- Also order 1 liter of Coke (no one drinks diet coke, btw, so don't bother)
-- Get the debit card from JH or MP or DC
+- Set for Delivery 15 minutes before the meeting
+- Number of pizzas = # of attendees / 6 
+- Consider gluten free and vegetarian options
+- Look for coupons you can use!
+- Order 1 liter of Coke (no one drinks diet coke, btw, so don't bother)
+- Get the debit card # from JH or MP or DC
 - The zip associated with the debit card is 05446
 - Give instructions to come to the Merril-Lynch entrance
-- Don't forget to tip, like, $4 or $5
+- Don't forget to tip the driver, like, $4 or $5
