@@ -1,4 +1,6 @@
-Leonardos offers a non-profit discount of $10/pie. Here’s how to get the discount:
+## Leonardos offers a non-profit discount of $10/pie. 
+
+Here’s how to get the discount:
 
 **The order must be placed the day before the meetup**
 
@@ -31,10 +33,12 @@ Pick Up Day Of Meetup
 
 Buy drinks at Leonardos (no non-profit rate)
 
-
-If you screw up and forget to order the day off:
-- order from Dominoes Online!
+## Or order from Dominoes Online!
+(If you screw up and forget to order the day before, then the morning on the day of, or you don't want to pick up the pies yourself)
 - Set for Delivery 15 minutes before
 - Look for coupons you can use
-- Get the debit card from JH
+- Also order 1 liter of Coke (no one drinks diet coke, btw, so don't bother)
+- Get the debit card from JH or MP or DC
 - The zip associated with the debit card is 05446
+- Give instructions to come to the Merril-Lynch entrance
+- Don't forget to tip, like, $4 or $5
