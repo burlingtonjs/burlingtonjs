@@ -4,5 +4,5 @@
 - [ ] create meetup
 - [ ] market meetup (eg twitter) 
 - [ ] see if speaker will sponsor
-- [ ] Order pizza online from Dominoes (get CC info from Matt or Donnie) 15m prior to event
+- [ ] Order pizza online from Dominoes (# of pies = # of attendees / 6)
 - [ ] Get pizza, set up sandwich boards, learn about JS!
